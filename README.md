@@ -20,3 +20,8 @@ python main.py
 ```
 
 The example texts and other parameters can be changed directly in `main.py`.
+
+## Links
+
+ILC homepage
+https://www.iskoi.org/ilc/index.php
